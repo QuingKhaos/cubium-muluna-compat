@@ -1,12 +1,18 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "cubium-muluna-compat",
+  "title": "Cubium: Muluna Compatibility",
+  "description": "Adds a cubic exploration science pack from Muluna to Cubium.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77",
+
+    "khaoslib >= 1.3.0",
+
+    "planet-muluna >= 2.2.7",
+    "? cubium-science-pack-reorder >= 1.0.0",
+    "? science-tab >= 1.10.0"
   ]
 }
