@@ -4,13 +4,14 @@
   "description": "Adds a cubic exploration science pack from Muluna to Cubium.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
 
     "khaoslib >= 1.3.0",
 
+    "cubium >= 1.0.28",
     "planet-muluna >= 2.2.7",
     "? cubium-science-pack-reorder >= 1.0.0",
     "? science-tab >= 1.10.0"
