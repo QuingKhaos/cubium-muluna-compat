@@ -1,10 +1,10 @@
 {
   "name": "cubium-muluna-compat",
   "title": "Cubium: Muluna Compatibility",
-  "description": "Adds a cubic exploration science pack from Muluna to Cubium.",
+  "description": "Adds a cubic exploration science pack from Muluna to Cubium, and hope greenhouse tree growth.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
