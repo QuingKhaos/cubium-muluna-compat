@@ -1,6 +1,8 @@
-[![Factorio mod portal page](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Fcubium-muluna-compat&style=for-the-badge)](https://mods.factorio.com/mod/cubium-muluna-compat)
-[![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/cubium-muluna-compat/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/cubium-muluna-compat/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/cubium-muluna-compat?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/cubium-muluna-compat/pulls)
+[![The Foundry](https://img.shields.io/badge/foundrygg-4a1402?style=for-the-badge&logo=vercel&logoColor=white)](https://foundrygg.com/)
+[![Discord community](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SYmkaDjFCt)
+[![Factorio mod portal](https://img.shields.io/factorio-mod-portal/dt/cubium-muluna-compat?style=for-the-badge&logo=data%3Aimage%2Fx-icon%3Bbase64%2CAAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAALzAtABIVFwBBOSwAISYpAB0iJACTfFQAICQnAEk%2FLAAcICIAsZZlADs4MABsXUIAd2hMAINzVgChi2QAPTozAIt6WwAWGhsAs5prABwgIwC1nG4AKSglAEpGOwBhVDwAGx4hAGJUPABoXkkAMiwiAGleSQCwmW8AtJpsALigdABnXEcAi3ZPAFhNOACDb0sAIicqAEtCLwAxMzEAEhQWAE1EMgAgJSgAISUoAJV%2FWACrkmQAHyMmAIFwUgAbHyEAsJVkAG5gRgAXGxwAHSEkAKCKYwCzmWoAsJhtACIhHAAbHyIAeWtRADo3MACxmnAAtZttACMoKgAaHSAAPzcoABYZGwASFRYAX1ZEAINwTABKRTsAIygrAJqDWABoXUkAHyQmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADExMTExEyAgEzExMTExADExMRMVCi8EBC8KFTYxMTExMT0OGx5DJSVDHkgRHzExMTEyB0YnRiUlPidGBw0xMTExGi5GJS4JOS4lRkkpMTExHzcrRi4SHEBBLkYrNxUKMTpFRiUURDExRAklRhchLTE%2FKyU%2BCzExMTE7JSUqGSwxAj8qRgEVCgoVEEYqPwIGMSQMSUYlHTw8HSVGSQwiMTExDwclJSVGRiUlPgc1MTExMQMwNBQuJSUuFAU5IzExMTEiOEImFklJFiYCKCQxMTExMUckMRgzMxgxJCIxMTExMTExMTEiCAgiMTExMTExADExMTExMTExMTExMTExAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAAA%3D&color=orange&labelColor=rgb(111,148,173))](https://mods.factorio.com/mod/cubium-muluna-compat)
+[![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/cubium-muluna-compat/bug?label=Bug%20Reports&style=for-the-badge&logo=github)](https://github.com/QuingKhaos/cubium-muluna-compat/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/cubium-muluna-compat?label=Pull%20Requests&style=for-the-badge&logo=github)](https://github.com/QuingKhaos/cubium-muluna-compat/pulls)
 
 # Cubium: Muluna Compatibility
 
@@ -9,10 +11,13 @@ greenhouse tree growth.
 
 ## All my Cubium mods
 
+- [Cubium: Cerys Compatibility](https://mods.factorio.com/mod/cubium-cerys-compat) - Adds a cubic cerysian science pack
+  from Cerys to Cubium.
 - [Wooden Cubium: Cubnut Agriculture](https://mods.factorio.com/mod/cubium-cubnut-agriculture) - Grow Cubnuts in the
   ultradense lava on Cubium and process it to wood.
 - [Cubium: Lignumis Combatibility](https://mods.factorio.com/mod/cubium-lignumis-compat) - Adds a cubic wood and steam
   science pack from Lignumis to Cubium, and an easy way to obtain wood.
+- [Cubium: Moshine Compatibility](https://mods.factorio.com/mod/cubium-moshine-compat) - Adds cubic AI core recipes to Moshine.
 - [Cubium: Muluna Compatibility](https://mods.factorio.com/mod/cubium-muluna-compat) - Adds a cubic exploration science
   pack from Muluna to Cubium, and hope greenhouse tree growth.
 - [Cubium Planet Discovery Patch](https://mods.factorio.com/mod/cubium-planet-discovery-patch) - Adds the space locations
